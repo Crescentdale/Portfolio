@@ -1,4 +1,4 @@
-<h1>Hi, this is Pravallika! <br/>Thank you for stopping by my portfolio.
+<h1>Hi, this is Pravallika! <br/>Thank you for stopping by my portfolio. Please take a look at some of my projects below.
 <h2>👩🏻‍🎨 UX/UI Projects</h2> 
 Updating soon...
   
